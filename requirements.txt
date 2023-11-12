@@ -1,0 +1,9 @@
+requests
+fade
+colorama
+ctypes
+emoji
+sys
+subprocess
+hashlib
+pycryptodome
